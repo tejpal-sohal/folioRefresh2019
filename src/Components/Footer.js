@@ -15,6 +15,7 @@ const Footer = () => {
                         <div className="social-icons row">
                             <a href="mailto:tej.sohal@hotmail.co.uk"><i className="far fa-envelope" aria-hidden="true"></i> </a>
                             <a  rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tej-sohal"><i className="fab fa-linkedin" aria-hidden="true"></i> </a>
+                            <a  rel="noopener noreferrer" target="_blank" href="https://github.com/tejpal-sohal"><i className="fab fa-github" aria-hidden="true"></i> </a>
                             <a  rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/pixel_54/" ><i className="fab fa-instagram" aria-hidden="true"></i> </a>
                         </div>
                     </div>
@@ -27,6 +28,7 @@ const Footer = () => {
                     <div className="social">
                         <a href="mailto:tej.sohal@hotmail.co.uk">Email </a>
                         <a  rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tej-sohal">Linkedin</a>
+                        <a  rel="noopener noreferrer" target="_blank" href="https://github.com/tejpal-sohal">Github</a>
                         <a  rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/pixel_54/">Instagram</a>
                     </div>
                     <p>Copyright © {date.getFullYear()}, All rights Reserved. <br />

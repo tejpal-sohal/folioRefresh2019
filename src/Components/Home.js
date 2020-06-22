@@ -11,6 +11,7 @@ const Home = () => {
             <div className="social">
               <a  rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tej-sohal"><i className="fab fa-linkedin" aria-hidden="true"></i> </a>
               <a href="mailto:tej.sohal@hotmail.co.uk" ><i className="far fa-envelope" aria-hidden="true"></i> </a>
+              <a  rel="noopener noreferrer" target="_blank" href="https://github.com/tejpal-sohal"><i className="fab fa-github" aria-hidden="true"></i> </a>
               <a  rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/pixel_54/"><i className="fab fa-instagram" aria-hidden="true"></i> </a>
             </div>
             <a className="home-down bounce" href="#about"><i className="fa fa-angle-down"></i></a>
