@@ -1,6 +1,9 @@
 import React from 'react';
 
 const Projects = [
+    { title:"Netflix", type: "NYC Times Square Bill Board", tech: "Javascript", prevImage: "img/netflixThumb.jpg", mainImage: "img/netflixBig.jpg"},
+    { title:"BT Digital Marketing Hub", type: "application", tech: "Angular 2", prevImage: "img/btThumb.jpg", mainImage: "img/btBig.jpg"},
+    { title:"Audio Mango", type: "website", tech: "HTML \u2022 Javascript", prevImage: "img/audioMangoThumb.jpg", mainImage: "img/audioMangoBig.jpg"},
     { title:"Love Denim", type: "website", tech: "Hybris \u2022 Javascript", prevImage: "img/newlookDenimwa.jpg", mainImage: "img/lovedenimbig.jpg"},
     { title:"Denim Fit Guide", type: "website", tech: "Hybris \u2022 Javascript", prevImage: "img/dfg.jpg", mainImage: "img/dfg.jpg"},
     { title:"London Fashion \n Week", type: "WebApp", tech: "Hybris \u2022 Javascript", prevImage: "img/LondonFashion.jpg", mainImage: "img/LondonFashion.jpg"},
