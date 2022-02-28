@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Projects = [
+    { title:"ConservatoryLand", type: "ConservatoryLand Website & Quote Engine", tech: "React", prevImage: "img/conlandThumb.jpg", mainImage: "img/conlandBig.jpg"},
     { title:"Netflix", type: "NYC Times Square Bill Board", tech: "Javascript", prevImage: "img/netflixThumb.jpg", mainImage: "img/netflixBig.jpg"},
     { title:"BT Digital Marketing Hub", type: "application", tech: "Angular 2", prevImage: "img/btThumb.jpg", mainImage: "img/btBig.jpg"},
     { title:"Audio Mango", type: "website", tech: "HTML \u2022 Javascript", prevImage: "img/audioMangoThumb.jpg", mainImage: "img/audioMangoBig.jpg"},
